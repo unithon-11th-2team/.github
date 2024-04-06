@@ -26,9 +26,6 @@
 
 ## 📚 Erd
 
-<img width="921" alt="image" src="">
-
-
 <hr>
 <div align="center">
     <img width="600"  alt="infra_architecture" src="https://github.com/unithon-11th-2team/.github/assets/50691225/23db7d61-88cf-4db1-b935-2a26806183c9">
