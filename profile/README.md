@@ -58,7 +58,7 @@
     <td>서버</td>
     <td>서버</td>
 </tr>
-https://avatars.githubusercontent.com/u/45454585?v=4
+
 <tr>
     <td align=center>
     <a href="https://github.com/gowoon-choi"> 
