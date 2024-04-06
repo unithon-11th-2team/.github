@@ -14,7 +14,7 @@
 ## 😉 프로젝트 소개
 
 <hr>
-<img src="https://github.com/YAPP-Github/oksusu-susu-android/assets/69582122/ed04eee2-7c77-42b2-98e7-21154975418b"/>
+<img src="https://github.com/unithon-11th-2team/.github/assets/50691225/3113951a-1197-45f4-9b19-8714853cfebe"/>
 
 ```
 친구의 결혼식, 축의금은 얼마가 적당하다고 생각하시나요?
