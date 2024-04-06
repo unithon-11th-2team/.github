@@ -26,23 +26,31 @@
 
 ## 📚 Erd
 
+<img width="921" alt="image" src="">
+
+
 <hr>
 <div align="center">
-    <img width="600"  alt="infra_architecture" src="https://github.com/unithon-11th-2team/.github/assets/50691225/98ef0f1e-00ae-4425-83c4-2949232bbece">
+    <img width="600"  alt="infra_architecture" src="https://github.com/unithon-11th-2team/.github/assets/50691225/23db7d61-88cf-4db1-b935-2a26806183c9">
 </div>
 <br>
 
 <img width="1249" alt="image" src="">
 
-
 ## ✨ Code Base
 
+**Android**
+- Kotlin
+- AAC
+- MVVM
+- Jetpack Compose
+- Coroutine
+
+**Backend**
 - springBoot v3.2.x
-- kotlin v1.9.x
-- coroutine + suspend fun
-- webflux
+- java 17
+- webmvc
 - jpa
-- reactive-redis
 
 ## 🙋 Developer
 
