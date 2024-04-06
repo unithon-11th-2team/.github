@@ -32,8 +32,6 @@
 </div>
 <br>
 
-<img width="1249" alt="image" src="">
-
 ## ✨ Code Base
 
 **Android**
