@@ -53,24 +53,40 @@
 
 <table style="font-size: 15px">
 <tr align="center">
-    <td>극락</td>
-    <td>멋쟁이</td>
+    <td>안드로이드</td>
+    <td>안드로이드</td>
+    <td>서버</td>
+    <td>서버</td>
 </tr>
-
+https://avatars.githubusercontent.com/u/45454585?v=4
 <tr>
+    <td align=center>
+    <a href="https://github.com/wjdtkdgns"> 
+        <img src="https://avatars.githubusercontent.com/u/40175383?v=4" width="200px"/>
+        <br/>
+        최고운
+    </a>
+  </td>
+    <td align=center>
+    <a href="https://github.com/wjdtkdgns"> 
+        <img src="https://avatars.githubusercontent.com/u/45454585?v=4" width="200px"/>
+        <br/>
+        김유나
+    </a>
+  </td>
+  <td align=center>
+    <a href="https://github.com/DongGeon0908">
+        <img src="https://avatars.githubusercontent.com/u/91363333?v=4" width="200px"/>
+        <br/>
+        이지수
+    </a>
+  </td>
+
   <td align=center>
     <a href="https://github.com/DongGeon0908">
         <img src="https://avatars.githubusercontent.com/u/50691225?v=4" width="200px"/>
         <br/>
         김동건
-    </a>
-  </td>
-
-  <td align=center>
-    <a href="https://github.com/wjdtkdgns"> 
-        <img src="https://avatars.githubusercontent.com/u/67852689?v=4" width="200px"/>
-        <br/>
-        정상훈
     </a>
   </td>
 
