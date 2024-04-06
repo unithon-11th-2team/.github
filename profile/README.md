@@ -20,7 +20,7 @@
 
 <hr>
 <div align="center">
-    <img width="600"  alt="infra_architecture" src="https://github.com/YAPP-Github/oksusu-susu-api/assets/67852689/0c6760f2-d1be-4125-886c-a4265b74796c">
+    <img width="600"  alt="infra_architecture" src="https://github.com/unithon-11th-2team/.github/assets/50691225/98ef0f1e-00ae-4425-83c4-2949232bbece">
 </div>
 <br>
 
