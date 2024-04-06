@@ -1,24 +1,11 @@
-# <img width="160" style="margin-right: 20px" align=left alt="susu-logo" src="https://github.com/unithon-11th-2team/.github/assets/50691225/b244abdb-ba79-4997-9816-bd255fee6913"/> 파송송목탁탁
-
-**주고받은 소중한 마음들,** <br/>
-수수와 함께 경조사비를 똑똑하게 관리해요!<br/>
-<a href="https://play.google.com/store/apps/details?id=com.oksusu.susu" target="_blank">
-<img style="margin-right: 0px" src="https://github.com/unithon-11th-2team/.github/assets/50691225/3113951a-1197-45f4-9b19-8714853cfebe" width="150" />
-</a>
-<br>
-<br>
-
-<img width="904" alt="image" src="">
-
-
 ## 😉 프로젝트 소개
 
 <hr>
 <img src="https://github.com/unithon-11th-2team/.github/assets/50691225/3113951a-1197-45f4-9b19-8714853cfebe"/>
 
 ```
-친구의 결혼식, 축의금은 얼마가 적당하다고 생각하시나요?
-받은 마음과 보낸 마음. 잊지말고 수수에서 챙기세요!
+화나거나 우울했던 하루, 누군가의 공감 위로가 필요할 때가 있어요.
+내면의 편화와 안정을 위해 목탁을 던져보아요!
 ```
 
 <br>
