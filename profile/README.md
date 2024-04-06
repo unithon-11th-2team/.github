@@ -61,21 +61,21 @@
 https://avatars.githubusercontent.com/u/45454585?v=4
 <tr>
     <td align=center>
-    <a href="https://github.com/wjdtkdgns"> 
+    <a href="https://github.com/gowoon-choi"> 
         <img src="https://avatars.githubusercontent.com/u/40175383?v=4" width="200px"/>
         <br/>
         최고운
     </a>
   </td>
     <td align=center>
-    <a href="https://github.com/wjdtkdgns"> 
+    <a href="https://github.com/yunakim2"> 
         <img src="https://avatars.githubusercontent.com/u/45454585?v=4" width="200px"/>
         <br/>
         김유나
     </a>
   </td>
   <td align=center>
-    <a href="https://github.com/DongGeon0908">
+    <a href="https://github.com/thgr8ganzi">
         <img src="https://avatars.githubusercontent.com/u/91363333?v=4" width="200px"/>
         <br/>
         이지수
